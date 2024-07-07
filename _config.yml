@@ -1,0 +1,48 @@
+title: "Black hole article summaries"
+email: laurenchu8@gmail.com
+timezone: UTC
+baseurl: "/learningaboutsmbh"
+permalink: "/:title/"
+logo: ''
+favicon: ''
+author: Lauren
+paginate: 10
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: 
+
+# Authors
+authors:
+  lauren:
+    name: Lauren
+    display_name: Lauren
+    avatar: 'assets/images/lauren.png'
+    email: laurenchu8@gmail.com
+    web: https://www.wowthemes.net/category/jekyll-themes/
+    twitter: 
+    description: "applying into colleges, interested in engineering"
+
+# Social
+social:
+  instagram: 
+  facebook: 
+  twitter: 
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
