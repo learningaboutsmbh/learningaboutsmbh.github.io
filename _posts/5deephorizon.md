@@ -4,6 +4,7 @@ title:  "Deep Horizon: A Machine Learning Network That Recovers Accreting Black 
 author: Lauren
 categories: [ deep-horizon, machine-learning, EHT ]
 image: 
+featured: true
 ---
 [Jeffrey van der Gucht et al. 2020](https://www.aanda.org/articles/aa/full_html/2020/04/aa37014-19/aa37014-19.html#S1)
 

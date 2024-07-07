@@ -1,10 +1,10 @@
-
 ---
 layout: post
 title:  "Weak Gravitational Lensing and Shadow of a GUP Modified Scharzschild Black Hole in the Presence of Plasma"
 author: Lauren
 categories: [ gravitational-lensing,shadow]
 image: 
+featured: true
 ---
 [Hoshimov et al. 2024](https://arxiv.org/abs/2312.10678)
 

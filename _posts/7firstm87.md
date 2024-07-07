@@ -4,6 +4,8 @@ title:  "First M87 Event Horizon Telescope Results I. The Shadow of the Supermas
 author: lauren
 categories: [shadow, EHT, M87]
 image: 
+
+featured: true
 ---
 [Kazunori Akiyama et al. 2019] (https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7/pdf)
 

@@ -4,6 +4,7 @@ title:  "Accessing a New Population of Supermassive Black Holes with Extensions 
 author: Lauren
 categories: [ SMBH, EHT ]
 image: 
+featured: true
 ---
 [XinYue Alice Zhang et al. 2024](https://arxiv.org/pdf/2406.17754v1)
 

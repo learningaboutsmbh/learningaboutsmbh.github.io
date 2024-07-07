@@ -4,6 +4,7 @@ title:  "The E-B-correlation in Resolved Polarized Images: Connections to Astrop
 author: Lauren
 categories: [ EHT ]
 image: 
+featured: true
 ---
 [Emami et al. 2023](https://arxiv.org/pdf/2305.00387)
 

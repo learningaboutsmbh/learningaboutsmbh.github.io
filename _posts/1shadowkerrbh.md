@@ -4,6 +4,7 @@ title:  "Shadow of Kerr black hole surrounded by a cloud of strings in Rastall g
 author: Lauren
 categories: [ shadow, kerr-black-hole ]
 image: 
+featured: true
 ---
 [Qi Sun et al. 2024]
 (https://arxiv.org/abs/2401.08693)

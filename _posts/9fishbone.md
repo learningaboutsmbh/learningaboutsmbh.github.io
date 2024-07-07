@@ -4,6 +4,7 @@ title:  "Revisited equilibrium solution of Fishbone and Moncrief torus for exten
 author: Lauren
 categories: [ GRMHD]
 image: 
+featured: true
 ---
 [Akhil Uniyal et al. 2024](https://arxiv.org/html/2406.16309v1)
 

@@ -4,6 +4,7 @@ title:  "Apparent and emergent dark matter around a Schwarzschild black hole"
 author: Lauren
 categories: [dark-matter, Schwarzschild]
 image: 
+featured: true
 ---
 [Reggie C. Pantig et al. 2024](https://arxiv.org/pdf/2405.07531)
 
