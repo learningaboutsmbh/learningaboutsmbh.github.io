@@ -3,8 +3,9 @@ layout: post
 title:  "The E-B-correlation in Resolved Polarized Images: Connections to Astrophysics of Black Holes"
 author: Lauren
 categories: [ EHT ]
-image: 
+image: assets/images/1.jpg
 featured: true
+
 ---
 [Emami et al. 2023](https://arxiv.org/pdf/2305.00387)
 

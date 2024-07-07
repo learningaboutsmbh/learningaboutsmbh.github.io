@@ -3,8 +3,9 @@ layout: post
 title:  "Shadow of Kerr black hole surrounded by a cloud of strings in Rastall gravity and constraints from M87"
 author: Lauren
 categories: [ shadow, kerr-black-hole ]
-image: 
+image: assets/images/1.jpg
 featured: true
+
 ---
 [Qi Sun et al. 2024]
 (https://arxiv.org/abs/2401.08693)
