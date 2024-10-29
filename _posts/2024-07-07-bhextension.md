@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Accessing a New Population of Supermassive Black Holes with Extensions to the Event Horizon Telescope"
-author: Lauren
+author: lauren
 categories: [ SMBH, EHT ]
 image: assets/images/eht.jpg
 featured: true

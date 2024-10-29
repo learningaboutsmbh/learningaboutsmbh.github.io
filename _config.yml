@@ -1,4 +1,6 @@
-title: "Black hole article summaries"
+#near the bottom
+
+title: "Black Hole Article Summaries"
 email: laurenchu8@gmail.com
 timezone: UTC
 baseurl: ""
@@ -30,7 +32,7 @@ authors:
     avatar: 'assets/images/lauren.png'
     email: laurenchu8@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
-    description: "applying into colleges, interested in engineering"
+    description: "Aspiring Physics/Engineering Student"
 
 # Social
 social:

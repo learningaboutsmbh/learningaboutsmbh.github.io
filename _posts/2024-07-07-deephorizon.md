@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deep Horizon: A Machine Learning Network That Recovers Accreting Black Hole Parameters"
-author: Lauren
+author: lauren
 categories: [ deep-horizon, machine-learning, EHT ]
 image: assets/images/mach.jpg
 featured: true

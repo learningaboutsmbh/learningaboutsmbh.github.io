@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Non-linearly charged black holes: Shadow and Thin-accretion disk"
-author: Lauren
+author: lauren
 categories: [shadow, NLED, accretion-disk]
 image: assets/images/accdis.jpg
 featured: true

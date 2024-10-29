@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Apparent and emergent dark matter around a Schwarzschild black hole"
-author: Lauren
+author: lauren
 categories: [dark-matter, Schwarzschild]
 image: assets/images/dark.jpg
 featured: true
