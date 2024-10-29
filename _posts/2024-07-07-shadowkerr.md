@@ -3,12 +3,11 @@ layout: post
 title:  "Shadow of Kerr black hole surrounded by a cloud of strings in Rastall gravity and constraints from M87"
 author: Lauren
 categories: [ shadow, kerr-black-hole ]
-image: assets/images/1.jpg
+image: assets/images//kerrblackhole.jpg
 featured: true
 
 ---
-[Qi Sun et al. 2024]
-(https://arxiv.org/abs/2401.08693)
+[Qi Sun et al. 2024](https://arxiv.org/abs/2401.08693)
 
 Kerr black holes are a type of black hole solution to the equations of Einstein’s general relativity theory. They are characterized by two main features: mass and momentum named after the physicist. Roy Kerr discovered this division in 1963. 
 Kerr black holes exhibit rotation due to the angular momentum, unlike non-rotating black holes. 
