@@ -5,7 +5,7 @@ email: laurenchu8@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: ''
+logo: 'assets/images/image.png'
 favicon: ''
 author: Lauren
 paginate: 10
