@@ -1,4 +1,4 @@
-#near the bottom
+#basic stuff
 
 title: "Black Hole Article Summaries"
 email: laurenchu8@gmail.com
@@ -29,7 +29,7 @@ authors:
   lauren:
     name: Lauren
     display_name: Lauren
-    avatar: 'assets/images/lauren.png'
+    avatar: 'assets/images/IMG_4780.PNG'
     email: laurenchu8@gmail.com
     web: https://www.wowthemes.net/category/jekyll-themes/
     description: "Aspiring Physics/Engineering Student"
