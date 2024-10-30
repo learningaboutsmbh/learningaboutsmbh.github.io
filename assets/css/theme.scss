@@ -25,12 +25,17 @@ body {
     color: #333;
     overflow-x:hidden;
     padding-top:116px;
-    
 }
+
 .serif-font {
     font-family: "Tienne", serif;
     font-weight: 900; /* Heavy weight */
 }
+
+.main-font {
+    font-family: "PT Sans", sans-serif;
+}
+
 @media (max-width: 1366px) {
     .container-xl, .container-lg, .container-md, .container-sm, .container {
         width:90%;
